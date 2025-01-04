@@ -1,0 +1,22 @@
+{
+  "extensions": {
+    "recommendations": [
+      "editorconfig.editorconfig"
+    ]
+  },
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.detectIndentation": false,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+      80
+    ],
+    "editor.wordWrap": "on",
+    "editorconfig.generateAuto": false
+  }
+}
